@@ -1,2 +1,2 @@
 # Python-Challenge
-This needed for my python Homework
+PyPoll and PyBank homework completed with text file.  
